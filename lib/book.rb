@@ -2,8 +2,8 @@ class Book
   
   attr_accessor :title
 
-def initialize(breed)
-    @breed = breed
+def initialize(title)
+    @title = title
   end
   
 end
