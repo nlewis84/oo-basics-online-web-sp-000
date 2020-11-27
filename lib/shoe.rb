@@ -9,7 +9,7 @@ class Shoe
   end
   
   def cobble
-    
+    puts "Your shoes is as good as soon!"
   end
   
 end
